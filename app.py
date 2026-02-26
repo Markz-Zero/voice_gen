@@ -20,12 +20,8 @@ except:
     pass
 
 st.subheader("Una pequeña Fábula.")
-st.write('¡Ay! -dijo el ratón-. El mundo se hace cada día más pequeño. Al principio era tan grande que le tenía miedo. '  
-         ' Corría y corría y por cierto que me alegraba ver esos muros, a diestra y siniestra, en la distancia. ' 
-         ' Pero esas paredes se estrechan tan rápido que me encuentro en el último cuarto y ahí en el rincón está '  
-         ' la trampa sobre la cual debo pasar. Todo lo que debes hacer es cambiar de rumbo dijo el gato...y se lo comió. ' 
-         '  '
-         ' Franz Kafka.'
+st.write("Thus we may know that there are five essentials for victory. 1 - He will win who knows when to fight and when not to fight. 2 - He will win who knows how to handle both superior and inferior forces. 3- He will win whose army is animated by the same spirit throughout all
+its ranks. 4 - He will win who, prepared himself, waits to take the enemy unprepared. 5- He will win who has military capacity and is not interfered with by the sovereign."
         
         )
            
