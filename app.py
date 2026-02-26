@@ -20,8 +20,8 @@ except:
     pass
 
 st.subheader("A short lesson")
-st.write(Thus we may know that there are five essentials for victory. 1 - He will win who knows when to fight and when not to fight. 2 - He will win who knows how to handle both superior and inferior forces. 3- He will win whose army is animated by the same spirit throughout all
-its ranks. 4 - He will win who, prepared himself, waits to take the enemy unprepared. 5 - He will win who has military capacity and is not interfered with by the sovereign.)
+st.write("thus we may know that there are five essentials for victory. 1 - He will win who knows when to fight and when not to fight. 2 - He will win who knows how to handle both superior and inferior forces. 3- He will win whose army is animated by the same spirit throughout all
+its ranks. 4 - He will win who, prepared himself, waits to take the enemy unprepared. 5 - He will win who has military capacity and is not interfered with by the sovereign.")
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
